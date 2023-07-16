@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Software Development**
 
-- 👀 I’m interested in conding, sport (Basketball, Weight lifting...), chess, reading... 
+- 👀 I’m interested in coding, sport (Basketball, Weight lifting...), chess, reading... 
 - 🌱 I’m currently learning software development and company management. Intend to do a PhD in AI technologies
 - 💞️ I’m looking to collaborate on with anybody who is interresting in computer science
 - 📫 How to reach me **diasseomar10@gmail.com**
